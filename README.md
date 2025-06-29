@@ -15,17 +15,6 @@ I'm a Full Stack Software Engineer and a Computer Science graduate student at No
 - **Databases:** MySQL, PostgreSQL
 - **Cloud & DevOps:** AWS, Azure, Docker
 
-## 🎓 Education
-
-**Northeastern University, Boston, MA**  
-MS in Computer Science (Jan 2023 – May 2025)  
-GPA: 3.79/4.0  
-Relevant Courses: Programming Design Paradigms, Algorithms, DBMS, Cloud Computing, Machine Learning
-
-**SRM Institute of Science and Technology, Tamil Nadu, India**  
-B.Tech in Electronics and Communication (June 2014 – May 2018)  
-GPA: 9.2/10.0
-
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/sharanparikh16/)
