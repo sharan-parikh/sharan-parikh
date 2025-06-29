@@ -26,26 +26,10 @@ Relevant Courses: Programming Design Paradigms, Algorithms, DBMS, Cloud Computin
 B.Tech in Electronics and Communication (June 2014 – May 2018)  
 GPA: 9.2/10.0
 
-## 💼 Experience
-
-**Teaching Assistant**  
-Northeastern University (Sep 2024 – Apr 2025)  
-- Developed reusable React hooks, improving code maintainability and teaching component reusability and state management concepts
-- Mentored 30+ students in software development best practices and Agile SDLC workflows
-
-**Cloud Software Engineer – Backend**  
-New York Life Insurance Company (Jan 2024 – Aug 2024)  
-- Implemented Swagger UI for interactive API documentation and testing
-- Integrated SonarQube for automated static analysis, improving code quality
-- Enhanced PostgreSQL database integrity and performance
-
-**Full Stack Developer**  
-Deloitte Digital (Aug 2021 – Jan 2023)  
-<!-- Add more if you wish -->
-
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/sharanparikh16/)
+- [Website](https://sharan-parikh.github.io/portfolio/)
 - Email: parikhsharan6@gmail.com
 
 ---
