@@ -30,7 +30,7 @@ GPA: 9.2/10.0
 
 - [LinkedIn](https://www.linkedin.com/in/sharanparikh16/)
 - [Website](https://sharan-parikh.github.io/portfolio/)
-- [parikhsharan6@gmail.com]
+- parikhsharan6@gmail.com
 
 ---
 
