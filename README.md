@@ -45,8 +45,8 @@ Deloitte Digital (Aug 2021 – Jan 2023)
 
 ## 📫 Contact
 
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Email]
+- [LinkedIn](https://www.linkedin.com/in/sharanparikh16/)
+- Email: parikhsharan6@gmail.com
 
 ---
 
